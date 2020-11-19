@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamWatcher", "src\RamWatcher\RamWatcher\RamWatcher.csproj", "{34DE6ADA-2541-46A2-B7AA-AF49EB7B6F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DE6ADA-2541-46A2-B7AA-AF49EB7B6F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DE6ADA-2541-46A2-B7AA-AF49EB7B6F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DE6ADA-2541-46A2-B7AA-AF49EB7B6F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DE6ADA-2541-46A2-B7AA-AF49EB7B6F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B9B2B9-B04A-41EE-9BB0-7D0F736AAEC4}
+	EndGlobalSection
+EndGlobal
